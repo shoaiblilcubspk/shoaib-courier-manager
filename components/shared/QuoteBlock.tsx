@@ -1,0 +1,1 @@
+// Motivational quote for UI and PDF use

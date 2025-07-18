@@ -1,0 +1,1 @@
+// BlueEx column format structure

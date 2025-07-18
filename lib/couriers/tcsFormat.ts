@@ -1,0 +1,1 @@
+// TCS column format structure

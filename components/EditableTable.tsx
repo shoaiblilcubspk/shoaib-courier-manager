@@ -1,0 +1,1 @@
+// Reusable table component with full editing and auto-calculation
